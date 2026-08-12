@@ -1,5 +1,21 @@
-# Hello!
+<p align="center">
+  <a href="https://mozaic.it"><img src="./placeholder.jpg" alt="Mozaic logo"></a>
+</p>
 
-This is **placeholder text**. Feedback in regards to this placeholder text is appreciated and welcomed.
+<h2 align="center">Mozaic</h2>
 
-<sub>*you may consider yourself placeholdered <3*</sub>
+<p align="center">The modular, community-driven video sharing platform. Open source, tag-curated and fully customizable.</p>
+
+<p align="center">
+  <a href="https://mozaic.it">Main instance</a>
+  ·
+  <a href="https://github.com/mozaic-app/mozaic">Monorepo</a>
+  ·
+  <a href="https://github.com/mozaic-app/.github/blob/main/CONTRIBUTING.md">Contributing</a>
+</p>
+
+<br />
+
+<p align="center">
+  Licensed under GNU GPLv3.0.
+</p>
