@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://mozaic.it"><img src="./placeholder.jpg" alt="Mozaic logo"></a>
+  <a href="https://mozaic.it"><img src="./placeholder.jpg" alt="Mozaic logo" style="max-width: 100px; width: 25%; height: auto;"></a>
 </p>
 
 <h2 align="center">Mozaic</h2>
