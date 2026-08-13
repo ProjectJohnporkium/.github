@@ -4,7 +4,9 @@
 
 <h2 align="center">Mozaic</h2>
 
-<p align="center">The modular, community-driven video sharing platform. Open source, tag-curated and fully customizable.</p>
+<p align="center">The modular, community-driven video sharing platform.
+<br>
+<i>Open source, tag-curated and fully customizable.</i></p>
 
 <p align="center">
   <a href="https://mozaic.it">Main instance</a>
