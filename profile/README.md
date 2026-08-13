@@ -1,4 +1,4 @@
-<p align="center">
+n<p align="center">
   <a href="https://mozaic.it"><img src="./placeholder.jpg" alt="Mozaic logo" width="80"></a>
 </p>
 
@@ -11,9 +11,9 @@
 <p align="center">
   <a href="https://mozaic.it">Main instance</a>
   ·
-  <a href="https://github.com/mozaic-app/mozaic">Monorepo</a>
+  <a href="https://github.com/MozaicApp/mozaic">Monorepo</a>
   ·
-  <a href="https://github.com/mozaic-app/.github/blob/main/CONTRIBUTING.md">Contributing</a>
+  <a href="https://github.com/MozaicApp/.github/blob/main/CONTRIBUTING.md">Contributing</a>
 </p>
 
 <br />
