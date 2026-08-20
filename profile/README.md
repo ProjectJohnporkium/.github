@@ -1,4 +1,4 @@
-n<p align="center">
+<p align="center">
   <a href="https://mozaic.it"><img src="./placeholder.jpg" alt="Mozaic logo" width="80"></a>
 </p>
 
